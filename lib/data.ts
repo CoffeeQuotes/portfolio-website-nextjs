@@ -64,7 +64,7 @@ export const experiencesData = [
         description:
             "Received positive feedback from clients and users for PHP development work, demonstrating the value of your contributions to the team and the company.",
         icon: React.createElement(FaLaravel),
-        date: "2021 - present",
+        date: "2020 - 2021",
     },
     {
         title: "PHP Developer",
